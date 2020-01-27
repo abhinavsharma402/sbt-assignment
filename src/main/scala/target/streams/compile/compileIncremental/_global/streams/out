@@ -1,0 +1,35 @@
+[0m[[0m[0mdebug[0m] [0m[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial source changes: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	removed:Set(/home/knoldus/sbt-assignment-1/src/main/scala/Hello.scala)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	added: Set(/home/knoldus/sbt-assignment/src/main/scala/Hello.scala)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	modified: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidated products: Set(/home/knoldus/sbt-assignment-1/src/main/scala/target/scala-2.12/classes/Hello$.class, /home/knoldus/sbt-assignment-1/src/main/scala/target/scala-2.12/classes/Hello$delayedInit$body.class, /home/knoldus/sbt-assignment-1/src/main/scala/target/scala-2.12/classes/Hello.class)[0m
+[0m[[0m[0mdebug[0m] [0m[0mExternal API changes: API Changes: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mModified binary dependencies: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial directly invalidated classes: Set(Hello)[0m
+[0m[[0m[0mdebug[0m] [0m[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mSources indirectly invalidated by:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	product: Set(/home/knoldus/sbt-assignment-1/src/main/scala/Hello.scala)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	binary dep: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m	external source: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll initially invalidated classes: Set(Hello)[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll initially invalidated sources:Set(/home/knoldus/sbt-assignment/src/main/scala/Hello.scala, /home/knoldus/sbt-assignment-1/src/main/scala/Hello.scala)[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial set of included nodes: Hello[0m
+[0m[[0m[0mdebug[0m] [0m[0mRecompiling all sources: number of invalidated sources > 50.0% of all sources[0m
+[0m[[0m[0minfo[0m] [0m[0mCompiling 1 Scala source to /home/knoldus/sbt-assignment/src/main/scala/target/scala-2.12/classes ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting org.scala-sbt:compiler-bridge_2.12:1.3.2:compile for Scala 2.12.10[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting org.scala-sbt:compiler-bridge_2.12:1.3.2:compile for Scala 2.12.10[0m
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] Running cached compiler 2f5599d0 for Scala compiler version 2.12.10[0m
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] The Scala compiler is invoked with:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-bootclasspath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/knoldus/.sdkman/candidates/java/8.0.242-amzn/jre/lib/resources.jar:/home/knoldus/.sdkman/candidates/java/8.0.242-amzn/jre/lib/rt.jar:/home/knoldus/.sdkman/candidates/java/8.0.242-amzn/jre/lib/sunrsasign.jar:/home/knoldus/.sdkman/candidates/java/8.0.242-amzn/jre/lib/jsse.jar:/home/knoldus/.sdkman/candidates/java/8.0.242-amzn/jre/lib/jce.jar:/home/knoldus/.sdkman/candidates/java/8.0.242-amzn/jre/lib/charsets.jar:/home/knoldus/.sdkman/candidates/java/8.0.242-amzn/jre/lib/jfr.jar:/home/knoldus/.sdkman/candidates/java/8.0.242-amzn/jre/classes:/home/knoldus/.sbt/boot/scala-2.12.10/lib/scala-library.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-classpath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/knoldus/sbt-assignment/src/main/scala/target/scala-2.12/classes[0m
+[0m[[0m[0mdebug[0m] [0m[0mScala compilation took 2.106983232 s[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone compiling.[0m
+[0m[[0m[0mdebug[0m] [0m[0mNew invalidations:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial set of included nodes: [0m
+[0m[[0m[0mdebug[0m] [0m[0mPreviously invalidated, but (transitively) depend on new invalidations:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mNo classes were invalidated.[0m
